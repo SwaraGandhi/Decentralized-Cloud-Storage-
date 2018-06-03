@@ -1,0 +1,7 @@
+Install Create-React-App and other dependencies using NPM. Use NPM and install the following:
+
+npm i create-react-app 
+npm install react-bootstrap 
+npm install fs-extra 
+npm install ipfs-api 
+npm install web3@^1.0.0-beta.26
